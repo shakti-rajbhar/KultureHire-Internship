@@ -1,7 +1,7 @@
 # KultureHire-Data-Analyst-Internship
 
 ## Introduction
-This is an 8-week data analyst internship where I honed a variety of skills and earned two certificates:
+This is an data analyst internship where I honed a variety of skills and earned two certificates:
 #### 1. Advanced Excel Dashboarding in 2023 on Skillshare.
 #### 2. SQL for Beginners on Udemy.
 Throughout this internship, I gained expertise in tools such as Excel, Power BI, SQL, and acquired valuable soft skills. The primary focus of this internship is to bridge the gap between employers and Generation Z, addressing the challenges employers face in understanding this rising workforce. The repository contains insights and solutions to help employers better connect with the Gen Z demographic.
@@ -33,6 +33,7 @@ Delivered a presentation to System Limited, a leading company in Pakistan, with 
 ## Purpose
 The purpose of this internship is to bridge the gap between employers and Generation Z by providing insights and solutions to better understand and cater to the needs of this workforce.
 
-#### Thank you for exploring this repository and for your interest in understanding the journey of bridging the gap between employers and the next-generation workforce. Feel free to check out the presentation on  [LinkedIn]([https://pages.github.com](https://www.linkedin.com/posts/kulturehire_data-kulturehire-dataanalytics-activity-7136663776371634176-5Qx4?utm_source=share&utm_medium=member_desktop&rcm=ACoAACACat4BFJWcfPpDLFRHSiEZYKJ1TWXHqqg)/)
+#### Thank you for exploring this repository and for your interest in understanding the journey of bridging the gap between employers and the next-generation workforce. Feel free to check out the presentation on <a href="https://www.linkedin.com/posts/kulturehire_data-kulturehire-dataanalytics-activity-7136663776371634176-5Qx4?utm_source=share&utm_medium=member_desktop&rcm=ACoAACACat4BFJWcfPpDLFRHSiEZYKJ1TWXHqqg">LinkedIn</a>
+
 
 Your support is greatly appreciated!
