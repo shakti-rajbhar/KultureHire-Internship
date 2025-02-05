@@ -33,11 +33,6 @@ Delivered a presentation to System Limited, a leading company in Pakistan, with 
 ## Purpose
 The purpose of this internship is to bridge the gap between employers and Generation Z by providing insights and solutions to better understand and cater to the needs of this workforce.
 
+#### Thank you for exploring this repository and for your interest in understanding the journey of bridging the gap between employers and the next-generation workforce. Feel free to check out the presentation on  [LinkedIn]([https://pages.github.com](https://www.linkedin.com/posts/kulturehire_data-kulturehire-dataanalytics-activity-7136663776371634176-5Qx4?utm_source=share&utm_medium=member_desktop&rcm=ACoAACACat4BFJWcfPpDLFRHSiEZYKJ1TWXHqqg)/)
 
-
-#### Thank you for exploring this repository and for your interest in understanding the journey of bridging the gap between employers and the next-generation workforce. Feel free to check out the presentation on LinkedIn https://www.linkedin.com/posts/kulturehire_data-analytics-presentation-with-wajiha-activity-7116351217273864193-7QpH?utm_source=share&utm_medium=member_desktop. Your support is greatly appreciated!
-
-
-
-
-https://www.linkedin.com/posts/kulturehire_data-kulturehire-dataanalytics-activity-7136663776371634176-5Qx4?utm_source=share&utm_medium=member_desktop&rcm=ACoAACACat4BFJWcfPpDLFRHSiEZYKJ1TWXHqqg
+Your support is greatly appreciated!
