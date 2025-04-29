@@ -1,4 +1,4 @@
-# KultureHire-Data-Analyst-Internship###
+#### KultureHire-Data-Analyst-Internship###
 
 ## Introduction
 This is an data analyst internship where I honed a variety of skills and earned two certificates:
